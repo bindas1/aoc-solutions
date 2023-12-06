@@ -1,8 +1,8 @@
 # AoC 2023 Python solutions
 
-These are my Python solutions to advent of code 2023.
+These are my Python solutions to the advent of code 2023.
 
-Template from [https://github.com/alvesvaren/AoC-template](alvesvaren)
+Template to quickly get the data from [alvesvaren](https://github.com/alvesvaren/AoC-template)
 
 # AoC-template
 
