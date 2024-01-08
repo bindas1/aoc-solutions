@@ -54,6 +54,5 @@ def num_chars_in_encoded_line(line):
 total = 0
 for line in data:
     num_chars = len(line)
-    
     total +=  - num_chars + num_chars_in_encoded_line(line[1:-1])
 print("part 2", total)
