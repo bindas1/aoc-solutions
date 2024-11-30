@@ -1,9 +1,9 @@
-# AoC 2023 Python solutions
+# AoC Python solutions
 
 These are my Python solutions to the following editions of advent of code:
 
-- 2015 38 :star:
-- 2016 TBD
+- 2015 42 :star:
+- 2016 3 :star:
 - 2017 TBD
 - 2018 TBD
 - 2019 TBD
@@ -11,6 +11,7 @@ These are my Python solutions to the following editions of advent of code:
 - 2021 TBD
 - 2022 TBD
 - 2023: 32 :star:
+- 2024 TBD
 
 Template to quickly get the data from [alvesvaren](https://github.com/alvesvaren/AoC-template)
 
