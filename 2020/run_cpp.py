@@ -14,7 +14,7 @@ cpp_file = f"./{question_number}.cpp"
 executable = f"ex_{question_number}"
 
 try:
-    subprocess.run(["g++", cpp_file, "-o", executable], check=True)
+    subprocess.run(["g++", "-std=c++11", cpp_file, "-o", executable], check=True)
     print("C++ code compiled successfully.")
 except subprocess.CalledProcessError:
     print("Compilation failed. Please check your C++ code.")
