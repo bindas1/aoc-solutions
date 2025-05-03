@@ -10,6 +10,8 @@ std::vector<std::string> read_lines() {
         std::cout << input << std::endl;
         inputs.push_back(input);
     }
+
+    return inputs;
 }
 
 int main() {
