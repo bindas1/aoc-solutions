@@ -4,14 +4,14 @@ These are my Python solutions to the following editions of advent of code:
 
 - 2015 42 :star:
 - 2016 3 :star:
-- 2017 TBD
+- 2017 10 :star:
 - 2018 TBD
 - 2019 TBD
-- 2020 TBD
+- 2020 7 :star:
 - 2021 TBD
 - 2022 TBD
-- 2023: 32 :star:
-- 2024 TBD
+- 2023 32 :star:
+- 2024 6 :star:
 
 Template to quickly get the data from [alvesvaren](https://github.com/alvesvaren/AoC-template)
 
